@@ -21,6 +21,7 @@
   </properties>
   <modules>
     <module>RxJava</module>
+    <module>sample</module>
   </modules>
   <licenses>
       <license>
